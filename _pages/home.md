@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Luber Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Luber Lab at The University of Texas at Arlington."
 sitemap: false
 permalink: /
 ---

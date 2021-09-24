@@ -25,9 +25,9 @@ information from three references. Please format your subject line as
 ### Applications for PhD and Masters Positions
 We currently have funding to accept multiple PhD students this upcoming
 application cycle.
-If you are interested in doing a PhD or Masters with us, please apply through
+If you are interested in doing a PhD or Masters with us, please [apply](https://www.uta.edu/admissions/apply/graduate) to
 the UTA CSE department, specify interest in the bioinformatics track, mention
-Dr. Luber in your application, and send an email to Dr. Luber. In some
+Dr. Luber in your application, and send an [email](mailto:jacob.luber@uta.edu) to Dr. Luber. In some
 circumstances Dr. Luber may be able to co-mentor graduate students in the
 Bioengineering department at UTA.
 

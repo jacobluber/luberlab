@@ -30,7 +30,7 @@ Specifically, focus areas are building search engines for petabyte scale cancer 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/3.png" alt="Slide 3" />

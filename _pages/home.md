@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to Luber Group at the [The University of Texas at Arlington](https://www.uta.edu). We build computational tools and frameworks that at massive scale allow for cancer imaging data to be 1) contextualized in the oncology clinic to improve patient outcomes and 2) leveraged at the bench to augment drug discovery efforts. The lab also focuses on developing computational and statistical methods for handling high throughput `omics data such as single cell transcriptomics/spatial transcriptomics (10X Visium & Chromium), spatial proteomics (CODEX), and calcium imaging.
+Welcome to the Luber Research Group at the [The University of Texas at Arlington](https://www.uta.edu). We build computational tools and frameworks that at massive scale allow for cancer imaging data to be 1) contextualized in the oncology clinic to improve patient outcomes and 2) leveraged at the bench to augment drug discovery efforts. The lab also focuses on developing computational and statistical methods for handling high throughput `omics data such as single cell transcriptomics/spatial transcriptomics (10X Visium & Chromium), spatial proteomics (CODEX), and calcium imaging.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -30,16 +30,16 @@ Welcome to Luber Group at the [The University of Texas at Arlington](https://www
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/3.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/3.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5.png" alt="Slide 5" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/6.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/6.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -61,7 +61,7 @@ We are grateful for funding and resources from The University of Texas at Arling
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/2.svg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/3.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/4.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/2.svg" style="width: 310px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/3.png" style="width: 320px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/4.jpeg" style="width: 110px">
 </figure>

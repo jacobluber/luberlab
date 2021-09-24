@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Luber Lab at Leiden University."
+excerpt: "Luber Lab at UTA."
 sitemap: false
 permalink: /allnews.html
 ---

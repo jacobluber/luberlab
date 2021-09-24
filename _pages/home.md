@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to The Health Data Science Lab at the [The University of Texas at Arlington](https://www.uta.edu). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Welcome to Luber Group at the [The University of Texas at Arlington](https://www.uta.edu). We build computational tools and frameworks that at massive scale allow for cancer imaging data to be 1) contextualized in the oncology clinic to improve patient outcomes and 2) leveraged at the bench to augment drug discovery efforts. The lab also focuses on developing computational and statistical methods for handling high throughput `omics data such as single cell transcriptomics/spatial transcriptomics (10X Visium & Chromium), spatial proteomics (CODEX), and calcium imaging.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -52,21 +52,16 @@ Welcome to The Health Data Science Lab at the [The University of Texas at Arling
   </a>
 </div>
 
+Specifically, focus areas are building search engines for petabyte scale cancer imaging, building interpretable deep bayesian model architectures that are relevant in the oncology clinic and make sense when used in the context of the differential diagnosis, and studying how the microbiome contributes to patient response to cancer immunotherapy.
+
+ **The lab currently has funding for the recruitment of PhD students, postdoctoral research fellows, software engineers, staff scientists, masters students, and undergraduate students.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding and resources from The University of Texas at Arlington, [The University of Texas System Rising STARs Award (Permanent University Fund)[https://www.utsystem.edu/offices/academic-affairs/research/stars-program], The National Cancer Institute [cancer.gov], and The Texas Advanced Computing Center (TACC) [https://www.tacc.utexas.edu].
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/2.svg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/3.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/4.jpg" style="width: 110px">
 </figure>

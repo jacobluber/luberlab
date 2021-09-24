@@ -58,7 +58,7 @@ Specifically, focus areas are building search engines for petabyte scale cancer 
 We are grateful for funding and resources from The University of Texas at Arlington, [The University of Texas System Rising STARs Award (Permanent University Fund)](https://www.utsystem.edu/offices/academic-affairs/research/stars-program), [The National Cancer Institute](cancer.gov), and [The Texas Advanced Computing Center (TACC) ](https://www.tacc.utexas.edu).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/2.svg" style="width: 310px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/3.png" style="width: 320px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/4.jpeg" style="width: 110px">

@@ -5,12 +5,11 @@ excerpt: "Luber Lab at The University of Texas at Arlington."
 sitemap: false
 permalink: /
 ---
+ **The lab currently has funding for the recruitment of PhD students, postdoctoral research fellows, software engineers, staff scientists, masters students, and undergraduate students.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 Welcome to the Luber Research Group at the [The University of Texas at Arlington](https://www.uta.edu). We build computational tools and frameworks that at massive scale allow for cancer imaging data to be 1) contextualized in the oncology clinic to improve patient outcomes and 2) leveraged at the bench to augment drug discovery efforts. The lab also focuses on developing computational and statistical methods for handling high throughput `omics data such as single cell transcriptomics/spatial transcriptomics (10X Visium & Chromium), spatial proteomics (CODEX), and calcium imaging.
 
 Specifically, focus areas are building search engines for petabyte scale cancer imaging, building interpretable deep bayesian model architectures that are relevant in the oncology clinic and make sense when used in the context of the differential diagnosis, and studying how the microbiome contributes to patient response to cancer immunotherapy.
-
- **The lab currently has funding for the recruitment of PhD students, postdoctoral research fellows, software engineers, staff scientists, masters students, and undergraduate students.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

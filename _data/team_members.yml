@@ -25,6 +25,36 @@
   number_educ: 1
   education1: co-mentored by Michael Cho
 
+- name: Jillur Rahman Saurav
+  photo: missing.png
+  info: PhD Student (1st year rotation), CS
+  number_educ: 1
+  education1: BS Shahjalal University of Science & Technology
+
+- name: Avishek Das
+  photo: missing.png
+  info: PhD Student (1st year rotation), CS
+  number_educ: 1
+  education1: BS Chittagong University of Engineering and Technology
+
+- name: Fiza Saeed
+  photo: missing.png
+  info: Undergraduate Student
+  number_educ: 1
+  education1: Current UTA Bioengeering Student
+
+- name: Jai Prakash Veerla
+  photo: missing.png
+  info: Masters Student, CS
+  number_educ: 1
+  education1: Jawaharlal Nehru Technological University
+
+- name: Paul Koomey
+  photo: missing.png
+  info: Undergraduate Student
+  number_educ: 1
+  education1: Current UTA CS Student
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.luberlab.org/vacancies">openings</a> for more info

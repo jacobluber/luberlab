@@ -5,7 +5,7 @@ excerpt: "Luber Lab at The University of Texas at Arlington."
 sitemap: false
 permalink: /
 ---
- **The lab currently has funding for the recruitment of PhD students, postdoctoral research fellows, software engineers, staff scientists, masters students, and undergraduate students.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **The lab currently has funding for the recruitment of PhD students, postdoctoral research fellows, software engineers, staff scientists, masters students (thesis track only), and undergraduate students.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 Welcome to the Luber Research Group at the [The University of Texas at Arlington](https://www.uta.edu). We build computational tools and frameworks that at massive scale allow for cancer imaging data to be:
 1. Contextualized in the oncology clinic to improve patient outcomes.

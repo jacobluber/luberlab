@@ -1,14 +1,19 @@
 - name: Jacob M. Luber, Ph.D.
   photo: jacob.jpg
-  info: Assistant Professor
+  info: Assistant Professor\\
+  test
   email: jacob.luber@uta.edu
-  number_educ: 3
+  number_educ: 4
+  education1: CPRIT Scholar in Cancer Research
+  education1: Director, Health Data Science Lab, UTA
+  education2: Assistant Professor of Computer Science & Bioengineering
+  education3: Guest Researcher, NIH/NCI
   education1: Postdoc, Cancer Data Science Laboratory, NCI
   education2: PhD in Biomedical Informatics, Harvard University
   education3: BS in Computer Science, Trinity University
 
 - name: Demetra Meletis
-  photo: missing.png
+  photo: meletis.jpg
   info: Associate Computational Biologist
   number_educ: 1
   education1: BS Texas A&M University

@@ -18,15 +18,15 @@
   info: Masters Student, Bioengineering
   number_educ: 2
   education1: BS at The University of Texas at Arlington in Bioengineering
-  education1: co-mentored by Michael Cho
+  education2: co-mentored by Michael Cho
 
 - name: Kelli Fowlds
   photo: fowlds.jpg
   info: PhD Student, Bioengineering
   number_educ: 3
   education1: MA at Texas A&M University
-  education1: BA at Texas A&M University
-  education1: co-mentored by Michael Cho
+  education2: BA at Texas A&M University
+  education3: co-mentored by Michael Cho
 
 - name: Jillur Rahman Saurav
   photo: rahman.jpg

@@ -14,14 +14,14 @@
   education1: BS at Texas A&M University in Biological Science
 
 - name: Anne Alsup
-  photo: alsup.png
+  photo: alsup.jpg
   info: Masters Student, Bioengineering
   number_educ: 2
   education1: BS at The University of Texas at Arlington in Bioengineering
   education1: co-mentored by Michael Cho
 
 - name: Kelli Fowlds
-  photo: fowlds.png
+  photo: fowlds.jpg
   info: PhD Student, Bioengineering
   number_educ: 3
   education1: MA at Texas A&M University
@@ -29,7 +29,7 @@
   education1: co-mentored by Michael Cho
 
 - name: Jillur Rahman Saurav
-  photo: rahman.png
+  photo: rahman.jpg
   info: PhD Student, CS
   number_educ: 1
   education1: BS in CS at Shahjalal University of Science & Technology
@@ -41,19 +41,19 @@
   education1: BS in CS at Chittagong University of Engineering and Technology
 
 - name: Fiza Saeed
-  photo: saeed.png
+  photo: saeed.jpg
   info: Undergraduate Student
   number_educ: 1
   education1: Current UTA Bioengeering Student
 
 - name: Jai Prakash Veerla
-  photo: veerla.png
+  photo: veerla.jpg
   info: Masters Student, CS
   number_educ: 1
   education1: BS in CS at Jawaharlal Nehru Technological University
 
 - name: Paul Koomey
-  photo: koomey.png
+  photo: koomey.jpg
   info: Undergraduate Student
   number_educ: 1
   education1: Current UTA CS Student

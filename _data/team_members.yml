@@ -57,6 +57,13 @@
   info: Undergraduate Student
   number_educ: 1
   education1: Current UTA CS Student
+  
+- name: Mohammad Nasr
+  photo: d0712736-28f1-4ed9-81c8-846275055a40.jpg
+  info: PhD Student, CS
+  number_educ: 2
+  education1: MS at Sharif University 
+  education2: co-mentored by Manfred Huber
 
 - name: "This could be you !"
   photo: rock.jpg

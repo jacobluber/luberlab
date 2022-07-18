@@ -8,7 +8,7 @@
   education3: Guest Researcher, NIH/NCI
 
 - name: Michael Robben, Ph.D.
-  photo: missing.jpg
+  photo: robben.jpg
   info: Postdoctoral Fellow
   number_educ: 3
   education1: PhD at South Dakota State University in Moleculary Biology 
@@ -73,6 +73,13 @@
   info: Undergraduate Student
   number_educ: 1
   education1: Current UTA Bioengeering Student
+
+- name: Michael Aiyedun
+  photo: aiyedun.jpeg
+  info: Masters Student
+  number_educ: 2
+  education1: Current UTA CS Masters Student
+  education2: BS Computer Science, UTA
 
 - name: "This could be you !"
   photo: rock.jpg

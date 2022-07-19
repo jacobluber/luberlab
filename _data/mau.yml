@@ -1,0 +1,19 @@
+- name: Paul Koomey
+  photo: koomey.jpg
+  info: Undergraduate Student
+  number_educ: 1
+  education1: Current UTA CS Student
+
+- name: Fiza Saeed
+  photo: saeed.jpg
+  info: Undergraduate Student
+  number_educ: 1
+  education1: Current UTA Bioengeering Student
+
+- name: Michael Aiyedun
+  photo: aiyedun.jpeg
+  info: Masters Student
+  number_educ: 2
+  education1: Current UTA CS Masters Student
+  education2: BS Computer Science, UTA
+

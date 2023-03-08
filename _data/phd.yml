@@ -11,10 +11,13 @@
 - name: Jillur Rahman Saurav
   photo: rahman.jpg
   info: PhD Student, CS, G2
-  number_educ: 2
+  number_educ: 4
   education1: BS in CS at Shahjalal University of Science & Technology
   education2: Dissertation topic- ViT architectures, generative synthesis, and image to image translation applied to multiplexed spatial proteomics 
+  education3: <a href="https://scholar.google.com/citations?user=uhDHcmoAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://www.linkedin.com/in/jillur-rahman-saurav/">LinkedIn</a>, <a href="https://facevoid.github.io/assets/Jillur_Rahman_Saurav_CV.pdf">CV</a>, <a href="https://facevoid.github.io">Personal Website</a>
+  education4: <b> Selected for the 2023 Google CS Research Mentorship Program </b>
 
+https://www.linkedin.com/in/jillur-rahman-saurav/
 - name: Avishek Das
   photo: avishek.jpg
   info: PhD Student, CS, G2

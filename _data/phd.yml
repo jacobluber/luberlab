@@ -1,11 +1,12 @@
 - name: Mohammad Nasr
   photo: nasr.jpg
   info: PhD Candidate, CS, G4
-  number_educ: 4
+  number_educ: 5
   education1: MS at Sharif University 
   education2: BS at Sharif University 
   education3: co-mentored by Manfred Huber, Ph.D.
   education4: Dissertation topic- style transfer, compression, and search of medical imaging
+  education5: [Google Scholar](https://scholar.google.com/citations?user=CrwJIcUAAAAJ&hl=en)
 
 - name: Jillur Rahman Saurav
   photo: rahman.jpg

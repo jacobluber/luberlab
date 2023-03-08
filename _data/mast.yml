@@ -1,0 +1,49 @@
+- name: Michael Aiyedun
+  photo: aiyedun.jpeg
+  info: Masters Student, CS
+  number_educ: 1
+  education1: BS Computer Science, The University of Texas at Arlington
+
+- name: Biraaj Rout
+  photo: biraaj_luber_lab.jpg
+  info: Masters Student, CS
+  number_educ: 1
+  education1: BS Computer Science, Ambedkar Institute Of Technology
+
+- name: Mohamed Mohamed
+  photo: Mohamed_Mohamed.jpg
+  info: Masters Student, CS
+  number_educ: 1
+  education1: BS Computer Science, The University of Texas at Arlington
+
+- name: Aarushi Jain
+  photo: thumbnail_Aarushi_photo.jpg
+  info: Masters Student, CS
+  number_educ: 1
+  education1: BS Computer Science, Rajiv Gandhi Prodyogiki Vishwavidyalaya
+
+- name: Chinmayee Gangalam
+  photo: thumbnail_Chinmayee_Photo.jpg
+  info: Masters Student, CS
+  number_educ: 1
+  education1: BS Computer Science, Jawaharlal Nehru Technological University Hyderabad
+
+- name: Priyanka Emani
+  photo: thumbnail_Image-1.jpg
+  info: Masters Student, CS
+  number_educ: 1
+  education1: BS Engineering, Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology 
+
+- name: Poojitha Naidu
+  photo: thumbnail_Image-2.jpg
+  info: Masters Student, CS
+  number_educ: 1
+  education1: BS Computer Science, Jawaharlal Nehru Technological University Hyderabad
+
+- name: Hayden Lotspeich
+  photo: thumbnail_IMG_2206.jpg
+  info: Masters Student, CS
+  number_educ: 1
+  education1: BS Computer Science, The University of Texas at Arlington
+
+ 

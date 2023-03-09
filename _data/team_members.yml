@@ -2,27 +2,31 @@
   photo: jacob.jpg
   info: Director, Health Data Science Lab
   email: jacob.luber@uta.edu
-  number_educ: 4
+  number_educ: 5
   education1: CPRIT Scholar in Cancer Research
   education2: Assistant Professor of Computer Science & Bioengineering, UTA
   education3: Guest Researcher, NIH/NCI
   education4: Ph.D. Biomedical Informatics, Harvard Medical School BIG Program
+  education5: <a href="https://scholar.google.com/citations?user=qkLcROYAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/in/jacobluber/">LinkedIn</a>
 
 - name: Michael Robben, Ph.D.
   photo: robben.jpg
   info: Postdoctoral Fellow
-  number_educ: 3
+  number_educ: 4
   education1: PhD at South Dakota State University in Moleculary Biology 
   education2: BS in Biology at Salisbury University 
   education3: co-mentored by Jon Weidanz, Ph.D.
+  education4: <a href="https://scholar.google.com/citations?user=qssWF5UAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://www.linkedin.com/in/michael-robben-0a31b162/">LinkedIn</a>
 
-- name: Helen Shang, M.D.
+- name: Helen Shang, M.D., M.S.
   photo: shang.jpeg
   info: Visiting Assistant Professor/ Internal Medicine Resident
-  number_educ: 3
+  number_educ: 5
   education1: Visiting Assistant Professor of Computer Science, UTA
   education2: Internal Medicine Resident (PGY-2), UCLA
-  education3: MD, Harvard Medical School 
+  education3: MD, Harvard Medical School
+  education4: MS, Univeresity of California, San Diego
+  education5: <a href="https://scholar.google.com/citations?user=iqD8n2MAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://www.linkedin.com/in/helen-shang-md-ms-22a18b145/">LinkedIn</a> 
 
 - name: "This could be you !"
   photo: rock.jpg

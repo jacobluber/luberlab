@@ -20,55 +20,61 @@
 - name: Avishek Das
   photo: avishek.jpg
   info: PhD Student, CS, G2
-  number_educ: 2
+  number_educ: 3
   education1: BS in CS at Chittagong University of Engineering and Technology
   education2: Dissertation topic- Single cell analysis of X chromosome deactivation in non-model organisms
+  education3: <a href="https://scholar.google.com/citations?user=SOGa7QsAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/in/avishek-das-219168215/?originalSubdomain=bd">LinkedIn</a>
 
 - name: Kelli Fowlds
   photo: fowlds.jpg
   info: PhD Student, Bioengineering, G2
-  number_educ: 4
+  number_educ: 5
   education1: MA at Texas A&M University
   education2: BA at Texas A&M University
   education3: co-mentored by Michael Cho, Ph.D.
   education4: Dissertation topic- Graph neural networks for looking at cell-cell interactions in organoid models of T1D
+  education5: <a href="https://www.linkedin.com/in/kelli-fowlds-249330180/">LinkedIn</a>
 
 - name: Anne Alsup
   photo: alsup.jpg
   info: PhD Student, Bioengineering, G1
-  number_educ: 3
+  number_educ: 4
   education1: BS at The University of Texas at Arlington in Bioengineering
   education2: co-mentored by Michael Cho, Ph.D.
   education3: Dissertation topic- Deep learning algorithms for segmenting challening confocal microscopy images
+  education4: <a href="https://www.linkedin.com/in/anne-alsup/">LinkedIn</a>
 
 - name: Jai Prakash Veerla
   photo: veerla.jpg
   info: PhD Student, CS, G1
-  number_educ: 2
+  number_educ: 3
   education1: BS in CS at Jawaharlal Nehru Technological University
   education2: Dissertation topic- Measuring transcriptional bursting through lack of concordance between spatial proteomics and scRNA-Seq 
+  education3: <a href="https://www.linkedin.com/in/jai-prakash-veerla/">LinkedIn</a>
 
 - name: Parisa Boodaghi Malidarreh
   photo: ParisaBoodaghiMalidarreh.jpg
   info: PhD Student, CS, G1
-  number_educ: 3
+  number_educ: 4
   education1: BS at Babol Noshirvani University of Technology
   education2: MS at Iran University of Science and Technology
   education3: Dissertation topic- Combining radiology images, polygenic risk scores, and genomics for looking at health disparities in at risk populations
+  education4: <a href="https://scholar.google.com/citations?hl=en&user=VtHS_yEAAAAJ">Google Scholar</a>, <a href="https://www.linkedin.com/in/parisa-boodaghi-m-07646b171/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ir">LinkedIn</a>
 
 - name: Amir Hajighasemi 
   photo: thumbnail_Image.jpg
   info: PhD Student, CS, G1
-  number_educ: 3
+  number_educ: 4
   education1: BS at Iran University of Science and Technology
   education2: MS at University of Tehran
   education3: Dissertation topic- Search (patient similarity and matching) algorithms that work accross different data modalities (H&E, mIF, & `omics)
+  education4: <a href="https://www.linkedin.com/in/amir-hajighasemi-223b95185/">LinkedIn</a>
 
 - name: Joanne Mathew
   photo: 1659473427059.jpeg
   info: PhD Student, CS, G1
-  number_educ: 3
+  number_educ: 4
   education1: BS at University of Texas at Arlington
   education2: co-mentored by VP Nguyen, Ph.D.
   education3: Dissertation topic- Analyzing health sensor data with deep learning 
-
+  education4: <a href="https://www.linkedin.com/in/joanne-mathew/">LinkedIn</a>

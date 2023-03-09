@@ -8,7 +8,7 @@
   headline: Congrats to undergraduate Paul Koomey on being accepted to the PhD program in the School of Computer Science at Carnegie Mellon University! This is currently the number 1 ranked CS PhD program in the world. 
 
 - date: January 19th 2023
-  headline: Congrats to PhD students Mohammad Nasr and Amir Hajighasemi for having their co-first author paper <a href="{{ site.url }}{{ site.baseurl }}/downloads/ieeeisbi.pdf">Clinically Relevant Latent Space Embedding of Cancer Histopathology Slides Through Variational Autoencoder Based Image Compression</a> at the <a href="https://2023.biomedicalimaging.org/en/">IEEE International Symposium on Biomedical Imaging (ISBI)</a>. Visiting Assistant Professor Helen Shang, MD, MS did the clinical work for this paper and is extending it to retrospective concordance studies in the ER. 
+  headline: Congrats to PhD students Mohammad Nasr and Amir Hajighasemi for having their co-first author paper <a href="{{ site.url }}{{ site.baseurl }}/downloads/ieeeisbi.pdf">Clinically Relevant Latent Space Embedding of Cancer Histopathology Slides Through Variational Autoencoder Based Image Compression</a> accepted at the <a href="https://2023.biomedicalimaging.org/en/">2023 IEEE International Symposium on Biomedical Imaging (ISBI)</a>. Visiting Assistant Professor Helen Shang, MD, MS did the clinical work for this paper and is extending it to retrospective concordance studies in the ER. 
 
 - date: October 1st 2022
   headline: Congrats to undergraduate Paul Koomey on receving a full time job offer at Goldman Sachs! The lab is recruiting stellar UTA CS undergraduates who want to become involved in research that will jumpstart careers. 

@@ -65,6 +65,75 @@ The lab also focuses on developing computational and statistical methods for han
 
 Specifically, focus areas are building search engines for petabyte scale cancer imaging, building interpretable deep bayesian model architectures that are relevant in the oncology clinic and make sense when used in the context of the differential diagnosis, and studying how the microbiome contributes to patient response to cancer immunotherapy.
 
+Some photos of our recently comleted lab renovations: 
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
+	<li data-target="#carousel" data-slide-to="9"></li>
+	<li data-target="#carousel" data-slide-to="10"></li>
+	<li data-target="#carousel" data-slide-to="11"></li>
+	<li data-target="#carousel" data-slide-to="12"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/1.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/2.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/3.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/4.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/5.jpg" alt="Slide 5" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/6.jpg" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/7.jpg" alt="Slide 7" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/8.jpg" alt="Slide 8" />
+        </div>
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/9.jpg" alt="Slide 8" />
+        </div>
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/10.jpg" alt="Slide 8" />
+        </div>
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/11.jpg" alt="Slide 8" />
+        </div>
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/renovations/12.jpg" alt="Slide 8" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 We are grateful for funding and resources from The University of Texas at Arlington, [The University of Texas System Rising STARs Award (Permanent University Fund)](https://www.utsystem.edu/offices/academic-affairs/research/stars-program), [The Cancer Prevention and Research Institute of Texas](https://www.cprit.state.tx.us) and [The Texas Advanced Computing Center (TACC) ](https://www.tacc.utexas.edu).
 
 <figure class="fourth">

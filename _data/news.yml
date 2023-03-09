@@ -1,7 +1,28 @@
-- date: April 19th 2020
+- date: March 6th 2023
+  headline: Congrats to masters student Aarushi Jain for securing internship offers at Argonne National Laboratory, Lawrence Berkeley National Laboratory, and Los Alamos National Laboratory! 
+
+- date: March 2nd 2023
+  headline: Congrats to PhD student Jillur Rahman Saurav for being selected for the highly competitive 2023 <a href="https://research.google/outreach/csrmp/"> Google CS Research Mentorship Program (CSRMP)</a>. CSRMP matches students from historically marginalized groups with peers and a Google mentor to support their pursuit of computing research pathways. Saurav was selected for this based on the strength of his preprint <a href="https://arxiv.org/pdf/2205.10373.pdf">A SSIM Guided cGAN Architecture For Clinically Driven Generative Image Synthesis of Multiplexed Spatial Proteomics Channels</a>.
+
+- date: February 15th 2023
+  headline: Congrats to undergraduate Paul Koomey on being accepted to the PhD program in the School of Computer Science at Carnegie Mellon University! This is currently the number 1 ranked CS PhD program in the world. 
+
+- date: January 19th 2023
+  headline: Congrats to PhD students Mohammad Nasr and Amir Hajighasemi for having their co-first author paper <a href="{{ site.url }}{{ site.baseurl }}/downloads/ieeeisbi.pdf">Clinically Relevant Latent Space Embedding of Cancer Histopathology Slides Through Variational Autoencoder Based Image Compression</a> at the <a href="https://2023.biomedicalimaging.org/en/">IEEE International Symposium on Biomedical Imaging (ISBI)</a>. Visiting Assistant Professor Helen Shang, MD, MS did the clinical work for this paper and is extending it to retrospective concordance studies in the ER. 
+
+- date: October 1st 2022
+  headline: Congrats to undergraduate Paul Koomey on receving a full time job offer at Goldman Sachs! The lab is recruiting stellar UTA CS undergraduates who want to become involved in research that will jumpstart careers. 
+
+- date: October 1st 2022
+  headline: Congrats to undergraduate Paul Koomey on winning the UTA CSE undergraduate academic achievment award for having the top GPA out of 2,055 undergraduates in the department. 
+
+- date: July 19th 2022
+  headline: Congrats to postdoc Michael Robben, Ph.D. for having his paper <a href="https://www.biorxiv.org/content/10.1101/2022.07.21.501034v1.full.pdf">Selection of an Ideal Machine Learning Framework for Predicting Perturbation Effects on Network Topology of Bacterial KEGG Pathways</a> at the <a href="https://cnbmac.org">ACM BCB CNB-MAC</a> workshop. We are using this to perform directed evolution experiments/crispri screens to design phage that "shape" the microbiome so that it ideally synergizes with checkpoint blockade inhibitors. Michael will give a talk on this at the ACM BCB conference in Chicago next month.    
+
+- date: April 19th 2022
   headline: Congrats to PhD Students Kelli & Anne for winning second place in the graduate research category at the annual UTA College of Engineering Innovation Day poster competition!
 
-- date: April 1st 2020
+- date: April 1st 2022
   headline: Welcome to our new postdoctoral fellow, Michael Robben, PhD!
 
 - date: March 15th 2022

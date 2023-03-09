@@ -461,6 +461,8 @@ Theodora Koromila, PhD - Department of Biology, The University of Texas at Arlin
 
 Jeffery Demuth, PhD - Department of Biology, The University of Texas at Arlington  
 
+Eric Jones Jr, PhD - Department of Industrial, Manufacturing, and Systems Engineering, The University of Texas at Arlington
+
 Jon Weidanz, PhD - Associate Vice President for Research, The University of Texas at Arlington  
  
 Minvera Cordero, PhD - Department of Mathematics, The University of Texas at Arlington  

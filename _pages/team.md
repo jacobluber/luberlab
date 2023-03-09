@@ -444,30 +444,54 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Our Collaborators 
-VP Nguyen, PhD - Department of Computer of Science, The University of Texas at Arlington
-Manfred Huber, PhD - Department of Computer of Science, The University of Texas at Arlington
-Junzhou Huang, PhD - Department of Computer of Science, The University of Texas at Arlington
-Michael Cho, PhD - Department of Bioengineering, The University of Texas at Arlington
-Georgios Alexandrakis, PhD - Department of Bioengineering, The University of Texas at Arlington
-Justyn Jaworski, PhD - Department of Bioengineering, The University of Texas at Arlington
-Theodora Koromila, PhD - Department of Biology, The University of Texas at Arlington
-Jeffery Demuth, PhD - Department of Biology, The University of Texas at Arlington
-Jon Weidanz, PhD - Associate Vice President for Research, The University of Texas at Arlington 
-Minvera Cordero, PhD - Department of Mathematics, The University of Texas at Arlington
-Raquibul Hannan, MD, PhD - Department of Radiation Oncology, The University of Texas Southwestern Medical Center
-Laurentiu Pop, MD - Department of Radiation Oncology, The University of Texas Southwestern Medical Center
-Eytan Ruppin, MD, PhD - Cancer Data Science Lab, National Cancer Institute, National Institutes of Health
-Peng Jiang, PhD - Cancer Data Science Lab, National Cancer Institute, National Institutes of Health
+## Research Collaborators 
+VP Nguyen, PhD - Department of Computer of Science, The University of Texas at Arlington  
+
+Manfred Huber, PhD - Department of Computer of Science, The University of Texas at Arlington  
+
+Junzhou Huang, PhD - Department of Computer of Science, The University of Texas at Arlington  
+
+Michael Cho, PhD - Department of Bioengineering, The University of Texas at Arlington  
+
+Georgios Alexandrakis, PhD - Department of Bioengineering, The University of Texas at Arlington  
+
+Justyn Jaworski, PhD - Department of Bioengineering, The University of Texas at Arlington   
+
+Theodora Koromila, PhD - Department of Biology, The University of Texas at Arlington  
+
+Jeffery Demuth, PhD - Department of Biology, The University of Texas at Arlington  
+
+Jon Weidanz, PhD - Associate Vice President for Research, The University of Texas at Arlington  
+ 
+Minvera Cordero, PhD - Department of Mathematics, The University of Texas at Arlington  
+
+Raquibul Hannan, MD, PhD - Department of Radiation Oncology, The University of Texas Southwestern Medical Center   
+
+Laurentiu Pop, MD - Department of Radiation Oncology, The University of Texas Southwestern Medical Center  
+
+Eytan Ruppin, MD, PhD - Cancer Data Science Lab, National Cancer Institute, National Institutes of Health  
+
+Peng Jiang, PhD - Cancer Data Science Lab, National Cancer Institute, National Institutes of Health  
+
 Diana Carrasco, MD - Clinical Genetics, Cook Children's Hospital 
-Michael Lewis, MD - Pathology, Cedars Sinai Medical Center
+ 
+Michael Lewis, MD - Pathology, Cedars Sinai Medical Center  
+
 Stuart Flynn, MD - Dean, Burnett School of Medicine at Texas Christian University 
-Aleksandar Kostic - Department of Microbiology, Harvard Medical School 
-Jason Abernathy, PhD - ARS, United States Department of Agriculture 
-Amal Isaiah, MD, DPhil - Department of Pediatric Otolaryngology, University of Maryland School of Medicine 
+ 
+Aleksandar Kostic - Department of Microbiology, Harvard Medical School  
+ 
+Jason Abernathy, PhD - ARS, United States Department of Agriculture  
+ 
+Amal Isaiah, MD, DPhil - Department of Pediatric Otolaryngology, University of Maryland School of Medicine   
+
 Paul Yi, MD - Department of Diagnostic Radiology and Nuclear Medicine, University of Maryland School of Medicine
-Vishwa Parkeh, PhD - Department of Diagnostic Radiology and Nuclear Medicine, University of Maryland School of Medicine
+
+Vishwa Parekh, PhD - Department of Diagnostic Radiology and Nuclear Medicine, University of Maryland School of Medicine
+
 MinJun Kim, PhD - Department of Mechanical Engineering, Southern Methodist University 
+
+
 
 
 

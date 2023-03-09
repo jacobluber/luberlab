@@ -114,7 +114,7 @@ The lab also focuses on developing computational and statistical methods for han
 
 Specifically, focus areas are building search engines for petabyte scale cancer imaging, building interpretable deep bayesian model architectures that are relevant in the oncology clinic and make sense when used in the context of the differential diagnosis, and studying how the microbiome contributes to patient response to cancer immunotherapy.
 
-We are grateful for funding and resources from The University of Texas at Arlington, [The University of Texas System Rising STARs Award (Permanent University Fund)](https://www.utsystem.edu/offices/academic-affairs/research/stars-program), [The Cancer Prevention and Research Institute of Texas](https://www.cprit.state.tx.us) and [The Texas Advanced Computing Center (TACC) ](https://www.tacc.utexas.edu).
+The lab is currently supported by [Cancer Prevention and Research Institute of Texas](https://www.cprit.state.tx.us) grant RR220015 ($2,000,000; 2021-2026) and a University of Texas System Rising STARs early career faculty award ($250,000; 2021-2023). 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1.jpg" style="width: 210px">

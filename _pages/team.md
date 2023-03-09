@@ -479,7 +479,7 @@ Michael Lewis, MD - Pathology, Cedars Sinai Medical Center
 
 Stuart Flynn, MD - Dean, Burnett School of Medicine at Texas Christian University 
  
-Aleksandar Kostic - Department of Microbiology, Harvard Medical School  
+Aleksandar Kostic, PhD - Department of Microbiology, Harvard Medical School  
  
 Jason Abernathy, PhD - ARS, United States Department of Agriculture  
  

@@ -11,8 +11,6 @@ Welcome to the Luber Research Group at the [The University of Texas at Arlington
 
 The lab also focuses on developing computational and statistical methods for handling high throughput `omics data such as single cell transcriptomics/spatial transcriptomics (10X Visium & Chromium), spatial proteomics (CODEX), and calcium imaging.
 
-![first image]({{ site.url }}{{ site.baseurl }}/images/activities/1.jpg | width=100)
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
 <ol class="carousel-indicators">

@@ -35,11 +35,20 @@ The lab also focuses on developing computational and statistical methods for han
     <li data-target="#carousel" data-slide-to="18"></li>
     <li data-target="#carousel" data-slide-to="19"></li>
     <li data-target="#carousel" data-slide-to="20"></li>	
+    <li data-target="#carousel" data-slide-to="21"></li>
+    <li data-target="#carousel" data-slide-to="22"></li>
+    <li data-target="#carousel" data-slide-to="23"></li>
 </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/activities/a.jpg" alt="Slide a" />
+        </div>
+	<div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/activities/b.jpg" alt="Slide b" />
+        </div>
+	<div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/activities/1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
@@ -54,7 +63,10 @@ The lab also focuses on developing computational and statistical methods for han
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/activities/5.jpg" alt="Slide 5" />
         </div>
-         <div class="item">
+	<div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/activities/c.jpg" alt="Slide c" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/activities/6.jpg" alt="Slide 6" />
         </div>
         <div class="item">

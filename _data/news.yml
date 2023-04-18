@@ -1,11 +1,20 @@
+- date: April 18th 2023
+  headline: Jacob will be an invited speaker at <a href="https://www2023.thewebconf.org/special/health-day/"> ACM The Web Conference Health Day 2023</a> in Austin on May 1st, where he will present work on generative sythesis of multiplexed spatial proteomics and fast seach of histopathology slides. 
+
+- date: April 18th 2023
+  headline: Jacob and Visiting Assitant Professor Helen Shang, MD, MS are presenting the poster <a href="{{ site.url }}{{ site.baseurl }}/downloads/725.pdf">CLINICALLY RELEVANT LATENT SPACE EMBEDDING OF CANCER HISTOPATHOLOGY SLIDES THROUGH VARIATIONAL AUTOENCODER BASED IMAGE COMPRESSION</a> at IEEE ISBI in Cartagena, Colombia for PhD Candidate Mohammad Nasr's and PhD Student Amir Hajighasemi's accepted paper.
+
+- date: April 7th 2023
+  headline: Congrats to PhD student Jillur Rahman Saurav for being selected for the highly competitive 2023 <a href="https://research.google/outreach/csrmp/"> Google CS Research Mentorship Program (CSRMP)</a>! CSRMP matches students from historically marginalized groups with peers and a Google mentor to support their pursuit of computing research pathways. Saurav was selected for this based on the strength of his preprint <a href="https://arxiv.org/pdf/2205.10373.pdf">A SSIM Guided cGAN Architecture For Clinically Driven Generative Image Synthesis of Multiplexed Spatial Proteomics Channels</a>.
+
+- date: April 6th 2023
+  headline: Congrats to PhD students Anne Alsup and Kelli Fowlds on their new preprint <a href="https://www.biorxiv.org/content/10.1101/2023.04.06.535890v1"> BetaBuddy: An end-to-end computer vision pipeline for the automated analysis of insulin secreting β-cells</a>! 
+
 - date: March 23rd 2023
   headline: Congrats to postdoctoral fellow Michael Robben, Ph.D., whose paper "Comparison of the Strengths and Weaknesses of Machine Learning Algorithms and Feature Selection on KEGG Database Microbial-Gene Pathway Annotation and its Effects on Reconstructed Network Topology" has been accepted at the Journal of Computational Biology. PhD candidate Mohammad Nasr and PhD student Avishek Das also made contributions to the paper. 
 
 - date: March 6th 2023
   headline: Congrats to masters student Aarushi Jain for securing internship offers at Argonne National Laboratory, Lawrence Berkeley National Laboratory, and Los Alamos National Laboratory! 
-
-- date: March 2nd 2023
-  headline: Congrats to PhD student Jillur Rahman Saurav for being selected for the highly competitive 2023 <a href="https://research.google/outreach/csrmp/"> Google CS Research Mentorship Program (CSRMP)</a>! CSRMP matches students from historically marginalized groups with peers and a Google mentor to support their pursuit of computing research pathways. Saurav was selected for this based on the strength of his preprint <a href="https://arxiv.org/pdf/2205.10373.pdf">A SSIM Guided cGAN Architecture For Clinically Driven Generative Image Synthesis of Multiplexed Spatial Proteomics Channels</a>.
 
 - date: February 15th 2023
   headline: Congrats to undergraduate Paul Koomey on being accepted to the PhD program in the School of Computer Science at Carnegie Mellon University! This is currently the number 1 ranked CS PhD program in the world. 

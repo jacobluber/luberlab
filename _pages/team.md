@@ -449,7 +449,9 @@ VP Nguyen, PhD - Department of Computer of Science, The University of Texas at A
 
 Manfred Huber, PhD - Department of Computer of Science, The University of Texas at Arlington  
 
-Junzhou Huang, PhD - Department of Computer of Science, The University of Texas at Arlington  
+Junzhou Huang, PhD - Department of Computer of Science, The University of Texas at Arlington 
+
+Shirin Nilizadeh, PhD - Department of Computer of Science, The University of Texas at Arlington
 
 Michael Cho, PhD - Department of Bioengineering, The University of Texas at Arlington  
 

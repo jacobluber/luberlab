@@ -1,3 +1,12 @@
+- name: Michael Robben, Ph.D.
+  photo: robben.jpg
+  info: Postdoctoral Fellow
+  number_educ: 4
+  education1: PhD at South Dakota State University in Moleculary Biology 
+  education2: BS in Biology at Salisbury University 
+  education3: co-mentored by Jon Weidanz, Ph.D.
+  education4: <a href="https://scholar.google.com/citations?user=qssWF5UAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://www.linkedin.com/in/michael-robben-0a31b162/">LinkedIn</a>
+
 - name: Demetra Meletis
   photo: meletis.jpg
   info: Associate Computational Biologist
@@ -5,3 +14,95 @@
   education1: BS at Texas A&M University in Biological Science
   education2: Currently pursuing a Masters in Genetics and Genomics at Universitat de Barcelona
   education3: <a href="https://www.linkedin.com/in/demetram/">LinkedIn</a>
+
+- name: Avishek Das
+  photo: avishek.jpg
+  info: PhD Student, CS, G2
+  number_educ: 3
+  education1: BS in CS at Chittagong University of Engineering and Technology
+  education2: Dissertation topic- Single cell analysis of X chromosome deactivation in non-model organisms
+  education3: <a href="https://scholar.google.com/citations?user=SOGa7QsAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/in/avishek-das-219168215/?originalSubdomain=bd">LinkedIn</a>
+
+- name: Aarushi Jain
+  photo: aarushi_jain.jpg
+  info: Masters Student, CS
+  number_educ: 4
+  education1: BS Computer Science, Rajiv Gandhi Prodyogiki Vishwavidyalaya
+  education2: Intern, NVIDIA HPC Team, 2021-2022
+  education3: <a href="https://scholar.google.com/citations?user=BEy5bAgAAAAJ&hl=en&oi=sra">Google Scholar</a>, <a href="https://www.linkedin.com/in/aarushi29jain/">LinkedIn</a>
+  education4: <b> Selected for 2023 Internships at Argonne National Laboratory, Lawrence Berkeley National Laboratory, and Los Alamos National Laboratory </b>
+
+- name: Priyanka Emani
+  photo: emani_priyanka.jpg
+  info: Masters Student, CS
+  number_educ: 2
+  education1: BS Engineering, Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology 
+  education2: <a href="https://www.linkedin.com/in/priyanka-emani-469593242/">LinkedIn</a>
+
+- name: Poojitha Naidu
+  photo: poojitha_naidu.jpg
+  info: Masters Student, CS
+  number_educ: 2
+  education1: BS Computer Science, Jawaharlal Nehru Technological University Hyderabad
+  education2: <a href="https://www.linkedin.com/in/poojitha-naidu/">LinkedIn</a>
+
+- name: Paul Koomey
+  photo: koomey.jpg
+  info: Undergraduate Student, CS
+  number_educ: 3
+  education1: <a href="https://scholar.google.com/citations?user=1NbYAGQAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://www.linkedin.com/in/paul-koomey/">LinkedIn</a>
+  education2: Awarded the UTA CSE undergraduate academic achievment award for having top GPA out of 2,055 undergrads in the department + research accomplishments
+  education3: <b>Received full time offer at Goldman Sachs + admission to Carnegie Mellon University School of Computer Science PhD in 2023 </b> 
+
+- name: Fiza Saeed
+  photo: saeed.jpg
+  info: Undergraduate Student, Bioengineering
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/fiza-saeed-248a06177/">LinkedIn</a>
+
+- name: Partha Sai Guttikonda
+  photo: partha_sai.png
+  info: Masters Student, CS
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/guttikonda-pardhu/">LinkedIn</a>
+
+- name: Nikhil Santhapur
+  photo: missing.png
+  info: Masters Student, CS
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/nikhilsanthapur/">LinkedIn</a>
+
+- name: Amit Gupta
+  photo: missing.png
+  info: Masters Student, CS
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/amit-gupta-0220/">LinkedIn</a>
+
+- name: Binita K C
+  photo: missing.png
+  info: Undergraduate Student, Biomedical Engineering
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/binita-kc/">LinkedIn</a>
+
+- name: Yash Vishwanath Tobre
+  photo: missing.png
+  info: Masters Student, CS
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/yashtobre/">LinkedIn</a>
+
+- name: Neel Vora
+  photo: missing.png
+  info: Masters Student, CS
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/neelvora27/">LinkedIn</a>
+
+- name: Joanne Mathew
+  photo: joanne_mathew.jpeg
+  info: PhD Student, CS, G1
+  number_educ: 4
+  education1: BS at University of Texas at Arlington
+  education2: co-mentored by VP Nguyen, Ph.D.
+  education3: Dissertation topic- Analyzing health sensor data with deep learning 
+  education4: <a href="https://www.linkedin.com/in/joanne-mathew/">LinkedIn</a>
+
+  

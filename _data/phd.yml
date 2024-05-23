@@ -1,13 +1,3 @@
-- name: Mohammad Nasr
-  photo: nasr.jpg
-  info: PhD Candidate, CS, G4
-  number_educ: 5
-  education1: MS at Sharif University 
-  education2: BS at Sharif University 
-  education3: co-mentored by Manfred Huber, Ph.D.
-  education4: Dissertation topic- style transfer, compression, and search of medical imaging
-  education5: <a href="https://scholar.google.com/citations?user=CrwJIcUAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/in/msnasr/">LinkedIn</a>  
-
 - name: Jillur Rahman Saurav
   photo: rahman.jpg
   info: PhD Student, CS, G2
@@ -16,14 +6,6 @@
   education2: Dissertation topic- ViT architectures, generative synthesis, and image to image translation applied to multiplexed spatial proteomics 
   education3: <a href="https://scholar.google.com/citations?user=uhDHcmoAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://www.linkedin.com/in/jillur-rahman-saurav/">LinkedIn</a>, <a href="https://facevoid.github.io/assets/Jillur_Rahman_Saurav_CV.pdf">CV</a>, <a href="https://facevoid.github.io">Personal Website</a>
   education4: <b> Selected for the 2023 Google CS Research Mentorship Program </b>
-
-- name: Avishek Das
-  photo: avishek.jpg
-  info: PhD Student, CS, G2
-  number_educ: 3
-  education1: BS in CS at Chittagong University of Engineering and Technology
-  education2: Dissertation topic- Single cell analysis of X chromosome deactivation in non-model organisms
-  education3: <a href="https://scholar.google.com/citations?user=SOGa7QsAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/in/avishek-das-219168215/?originalSubdomain=bd">LinkedIn</a>
 
 - name: Kelli Fowlds
   photo: fowlds.jpg
@@ -62,7 +44,7 @@
   education4: <a href="https://scholar.google.com/citations?hl=en&user=VtHS_yEAAAAJ">Google Scholar</a>, <a href="https://www.linkedin.com/in/parisa-boodaghi-m-07646b171/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ir">LinkedIn</a>
 
 - name: Amir Hajighasemi 
-  photo: thumbnail_Image.jpg
+  photo: amir.jpg
   info: PhD Student, CS, G1
   number_educ: 4
   education1: BS at Iran University of Science and Technology
@@ -70,11 +52,42 @@
   education3: Dissertation topic- Search (patient similarity and matching) algorithms that work accross different data modalities (H&E, mIF, & `omics)
   education4: <a href="https://www.linkedin.com/in/amir-hajighasemi-223b95185/">LinkedIn</a>
 
-- name: Joanne Mathew
-  photo: 1659473427059.jpeg
-  info: PhD Student, CS, G1
-  number_educ: 4
-  education1: BS at University of Texas at Arlington
-  education2: co-mentored by VP Nguyen, Ph.D.
-  education3: Dissertation topic- Analyzing health sensor data with deep learning 
-  education4: <a href="https://www.linkedin.com/in/joanne-mathew/">LinkedIn</a>
+- name: Biraaj Rout
+  photo: biraaj_luber_lab.jpg
+  info: PhD Student, CS
+  number_educ: 2
+  education1: BS Computer Science, Ambedkar Institute Of Technology
+  education2: <a href="https://www.linkedin.com/in/biraaj/">LinkedIn</a>
+
+- name: Mohamed Mohamed
+  photo: Mohamed_Mohamed.jpg
+  info: PhD Student, CS
+  number_educ: 1
+  education1: BS Computer Science, The University of Texas at Arlington
+
+- name: Hayden Lotspeich
+  photo: hayden.jpg
+  info: PhD Student, CS
+  number_educ: 2
+  education1: BS Computer Science, The University of Texas at Arlington
+  education2: <a href="https://www.linkedin.com/in/hayden-lotspeich-84b2751ab/">LinkedIn</a>
+
+- name: Thuong (Lucy) Pham
+  photo: Thuong_Pham.png
+  info: PhD Student, CS
+  number_educ: 2
+  education1: BS Computer Science, Trinity University, Texas
+  education2: <a href="https://www.linkedin.com/in/thuong-lucy-pham/">LinkedIn</a>
+
+- name: Cody Tyler Reynolds
+  photo: cody_reynolds.png
+  info: PhD Student, CS
+  number_educ: 2
+  education1: BS Computer Science, The University of Texas at Arlington
+  education2: <a href="https://www.linkedin.com/in/cody-reynolds-049b85163/">LinkedIn</a>
+
+- name: Anahita Samadi
+  photo: Anahita_Samadi.png
+  info: PhD Student, CS
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/anahita-samadi-2756704b/">LinkedIn</a>

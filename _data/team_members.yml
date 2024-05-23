@@ -8,12 +8,13 @@
   education4: MS, The University of California, San Diego
   education5: <a href="https://scholar.google.com/citations?user=iqD8n2MAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://www.linkedin.com/in/helen-shang-md-ms-22a18b145/">LinkedIn</a>
 
-- name: Michael Robben, Ph.D.
-  photo: robben.jpg
-  info: Postdoctoral Fellow
-  number_educ: 4
-  education1: PhD at South Dakota State University in Moleculary Biology 
-  education2: BS in Biology at Salisbury University 
-  education3: co-mentored by Jon Weidanz, Ph.D.
-  education4: <a href="https://scholar.google.com/citations?user=qssWF5UAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://www.linkedin.com/in/michael-robben-0a31b162/">LinkedIn</a>
-
+- name: Mohammad Nasr
+  photo: nasr.jpg
+  info: Postdoctoral Fellow, CS, G4
+  number_educ: 6
+  education1: PhD at The University of Texas at Arlington in Computer Science
+  education2: MS at Sharif University 
+  education3: BS at Sharif University 
+  education4: co-mentored by Manfred Huber, Ph.D.
+  education5: Dissertation topic- style transfer, compression, and search of medical imaging
+  education6: <a href="https://scholar.google.com/citations?user=CrwJIcUAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/in/msnasr/">LinkedIn</a>  

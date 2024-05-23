@@ -11,10 +11,9 @@
 - name: Mohammad Nasr
   photo: nasr.jpg
   info: Postdoctoral Fellow, CS, G4
-  number_educ: 6
+  number_educ: 5
   education1: PhD at The University of Texas at Arlington in Computer Science
-  education2: MS at Sharif University 
-  education3: BS at Sharif University 
-  education4: co-mentored by Manfred Huber, Ph.D.
-  education5: Dissertation topic- style transfer, compression, and search of medical imaging
-  education6: <a href="https://scholar.google.com/citations?user=CrwJIcUAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/in/msnasr/">LinkedIn</a>  
+  education2: MS & BS at Sharif University 
+  education3: co-mentored by Manfred Huber, Ph.D.
+  education4: Dissertation topic- style transfer, compression, and search of medical imaging
+  education5: <a href="https://scholar.google.com/citations?user=CrwJIcUAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/in/msnasr/">LinkedIn</a>  

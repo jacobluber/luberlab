@@ -1,15 +1,41 @@
 - name: Jillur Rahman Saurav
   photo: rahman.jpg
-  info: PhD Student, CS, G2
+  info: PhD Candidate, CS
   number_educ: 4
   education1: BS in CS at Shahjalal University of Science & Technology
   education2: Dissertation topic- ViT architectures, generative synthesis, and image to image translation applied to multiplexed spatial proteomics 
   education3: <a href="https://scholar.google.com/citations?user=uhDHcmoAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://www.linkedin.com/in/jillur-rahman-saurav/">LinkedIn</a>, <a href="https://facevoid.github.io/assets/Jillur_Rahman_Saurav_CV.pdf">CV</a>, <a href="https://facevoid.github.io">Personal Website</a>
   education4: <b> Selected for the 2023 Google CS Research Mentorship Program </b>
 
+- name: Jai Prakash Veerla
+  photo: veerla.jpeg
+  info: PhD Candidate, CS
+  number_educ: 3
+  education1: BS in CS at Jawaharlal Nehru Technological University
+  education2: Dissertation topic- Measuring transcriptional bursting through lack of concordance between spatial proteomics and scRNA-Seq 
+  education3: <a href="https://www.linkedin.com/in/jai-prakash-veerla/">LinkedIn</a>
+
+- name: Parisa Boodaghi Malidarreh
+  photo: ParisaBoodaghiMalidarreh.jpg
+  info: PhD Candidate, CS
+  number_educ: 4
+  education1: BS at Babol Noshirvani University of Technology
+  education2: MS at Iran University of Science and Technology
+  education3: Dissertation topic- Combining radiology images, polygenic risk scores, and genomics for looking at health disparities in at risk populations
+  education4: <a href="https://scholar.google.com/citations?hl=en&user=VtHS_yEAAAAJ">Google Scholar</a>, <a href="https://www.linkedin.com/in/parisa-boodaghi-m-07646b171/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ir">LinkedIn</a>
+
+- name: Amir Hajighasemi 
+  photo: amir.jpg
+  info: PhD Candidate, CS
+  number_educ: 4
+  education1: BS at Iran University of Science and Technology
+  education2: MS at University of Tehran
+  education3: Dissertation topic- Search (patient similarity and matching) algorithms that work accross different data modalities (H&E, mIF, & `omics)
+  education4: <a href="https://www.linkedin.com/in/amir-hajighasemi-223b95185/">LinkedIn</a>
+
 - name: Kelli Fowlds
   photo: fowlds.jpg
-  info: PhD Student, Bioengineering, G2
+  info: PhD Candidate, Bioengineering
   number_educ: 5
   education1: MA at Texas A&M University
   education2: BA at Texas A&M University
@@ -19,38 +45,18 @@
 
 - name: Anne Alsup
   photo: alsup.jpg
-  info: PhD Student, Bioengineering, G1
+  info: PhD Candidate, Bioengineering
   number_educ: 4
   education1: BS at The University of Texas at Arlington in Bioengineering
   education2: co-mentored by Michael Cho, Ph.D.
   education3: Dissertation topic- Deep learning algorithms for segmenting challening confocal microscopy images
   education4: <a href="https://www.linkedin.com/in/anne-alsup/">LinkedIn</a>
 
-- name: Jai Prakash Veerla
-  photo: veerla.jpg
-  info: PhD Student, CS, G1
-  number_educ: 3
-  education1: BS in CS at Jawaharlal Nehru Technological University
-  education2: Dissertation topic- Measuring transcriptional bursting through lack of concordance between spatial proteomics and scRNA-Seq 
-  education3: <a href="https://www.linkedin.com/in/jai-prakash-veerla/">LinkedIn</a>
-
-- name: Parisa Boodaghi Malidarreh
-  photo: ParisaBoodaghiMalidarreh.jpg
-  info: PhD Student, CS, G1
-  number_educ: 4
-  education1: BS at Babol Noshirvani University of Technology
-  education2: MS at Iran University of Science and Technology
-  education3: Dissertation topic- Combining radiology images, polygenic risk scores, and genomics for looking at health disparities in at risk populations
-  education4: <a href="https://scholar.google.com/citations?hl=en&user=VtHS_yEAAAAJ">Google Scholar</a>, <a href="https://www.linkedin.com/in/parisa-boodaghi-m-07646b171/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ir">LinkedIn</a>
-
-- name: Amir Hajighasemi 
-  photo: amir.jpg
-  info: PhD Student, CS, G1
-  number_educ: 4
-  education1: BS at Iran University of Science and Technology
-  education2: MS at University of Tehran
-  education3: Dissertation topic- Search (patient similarity and matching) algorithms that work accross different data modalities (H&E, mIF, & `omics)
-  education4: <a href="https://www.linkedin.com/in/amir-hajighasemi-223b95185/">LinkedIn</a>
+- name: Anahita Samadi
+  photo: Anahita_Samadi.jpg
+  info: PhD Candidate, CS
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/anahita-samadi-2756704b/">LinkedIn</a>
 
 - name: Biraaj Rout
   photo: biraaj_luber_lab.jpg
@@ -58,6 +64,20 @@
   number_educ: 2
   education1: BS Computer Science, Ambedkar Institute Of Technology
   education2: <a href="https://www.linkedin.com/in/biraaj/">LinkedIn</a>
+
+- name: Cody Tyler Reynolds
+  photo: cody_reynolds.jpg
+  info: PhD Student, CS
+  number_educ: 2
+  education1: BS Computer Science, The University of Texas at Arlington
+  education2: <a href="https://www.linkedin.com/in/cody-reynolds-049b85163/">LinkedIn</a>
+
+- name: Thuong (Lucy) Pham
+  photo: thuong_pham.jpg
+  info: PhD Student, CS
+  number_educ: 2
+  education1: BS Computer Science, Trinity University, Texas
+  education2: <a href="https://www.linkedin.com/in/thuong-lucy-pham/">LinkedIn</a>
 
 - name: Mohamed Mohamed
   photo: Mohamed_Mohamed.jpg
@@ -71,23 +91,3 @@
   number_educ: 2
   education1: BS Computer Science, The University of Texas at Arlington
   education2: <a href="https://www.linkedin.com/in/hayden-lotspeich-84b2751ab/">LinkedIn</a>
-
-- name: Thuong (Lucy) Pham
-  photo: Thuong_Pham.png
-  info: PhD Student, CS
-  number_educ: 2
-  education1: BS Computer Science, Trinity University, Texas
-  education2: <a href="https://www.linkedin.com/in/thuong-lucy-pham/">LinkedIn</a>
-
-- name: Cody Tyler Reynolds
-  photo: cody_reynolds.png
-  info: PhD Student, CS
-  number_educ: 2
-  education1: BS Computer Science, The University of Texas at Arlington
-  education2: <a href="https://www.linkedin.com/in/cody-reynolds-049b85163/">LinkedIn</a>
-
-- name: Anahita Samadi
-  photo: Anahita_Samadi.png
-  info: PhD Student, CS
-  number_educ: 1
-  education1: <a href="https://www.linkedin.com/in/anahita-samadi-2756704b/">LinkedIn</a>

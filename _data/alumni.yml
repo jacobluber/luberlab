@@ -61,7 +61,7 @@
   education1: <a href="https://www.linkedin.com/in/fiza-saeed-248a06177/">LinkedIn</a>
 
 - name: Partha Sai Guttikonda
-  photo: partha_sai.png
+  photo: partha_sai.JPG
   info: Masters Student, CS
   number_educ: 1
   education1: <a href="https://www.linkedin.com/in/guttikonda-pardhu/">LinkedIn</a>
@@ -71,6 +71,13 @@
   info: Masters Student, CS
   number_educ: 1
   education1: <a href="https://www.linkedin.com/in/nikhilsanthapur/">LinkedIn</a>
+
+- name: Chinmayee Gangalam
+  photo: chinmayee_Photo.jpg
+  info: Masters Student, CS
+  number_educ: 2
+  education1: BS Computer Science, Jawaharlal Nehru Technological University Hyderabad
+  education2: <a href="https://www.linkedin.com/in/chinmayee-gangalam/">LinkedIn</a>
 
 - name: Amit Gupta
   photo: missing.png
@@ -95,6 +102,13 @@
   info: Masters Student, CS
   number_educ: 1
   education1: <a href="https://www.linkedin.com/in/neelvora27/">LinkedIn</a>
+
+- name: Michael Aiyedun
+  photo: aiyedun.jpeg
+  info: Masters Student, CS
+  number_educ: 2
+  education1: BS Computer Science, The University of Texas at Arlington
+  education2: <a href="https://www.linkedin.com/in/michael-aiyedun-b6062a16a/">LinkedIn</a>
 
 - name: Joanne Mathew
   photo: joanne_mathew.jpeg

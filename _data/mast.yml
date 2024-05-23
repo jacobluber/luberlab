@@ -1,15 +1,7 @@
-- name: Michael Aiyedun
-  photo: aiyedun.jpeg
-  info: Masters Student, CS
-  number_educ: 2
-  education1: BS Computer Science, The University of Texas at Arlington
-  education2: <a href="https://www.linkedin.com/in/michael-aiyedun-b6062a16a/">LinkedIn</a>
-
-- name: Chinmayee Gangalam
-  photo: chinmayee_Photo.jpg
-  info: Masters Student, CS
-  number_educ: 2
-  education1: BS Computer Science, Jawaharlal Nehru Technological University Hyderabad
-  education2: <a href="https://www.linkedin.com/in/chinmayee-gangalam/">LinkedIn</a>
+- name: Rohan Sanjay Tiwari
+  photo: missing.png
+  info: MS, Biomedical Engineering
+  # number_educ: 1
+  # education1: <a href="https://www.linkedin.com/in/binita-kc/">LinkedIn</a>
 
  
